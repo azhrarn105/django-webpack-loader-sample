@@ -147,5 +147,5 @@ dmypy.json
 
 
 # その他個別
-myproject/frontend/webpack-stats.json
+frontend/webpack-stats.json
 VueCLI構築法調査.md
